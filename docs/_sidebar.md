@@ -5,7 +5,7 @@
   * [Custom navbar](custom-navbar.md)
   * [Cover page](cover.md)
 
-* Customization
+* 自定义部分
 
   * [Configuration](configuration.md)
   * [Themes](themes.md)
@@ -14,7 +14,7 @@
   * [Markdown configuration](markdown.md)
   * [Language highlighting](language-highlight.md)
 
-* Guide
+* 引导
 
   * [Deploy](deploy.md)
   * [Helpers](helpers.md)
